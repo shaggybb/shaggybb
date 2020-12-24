@@ -22,6 +22,10 @@ const shaggybb = {
 }
 ```
 
+<br/>
+
+[![Shaggybb's github stats](https://github-readme-stats.vercel.app/api?username=shaggybb)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **shaggybb/shaggybb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
