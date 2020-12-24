@@ -1,0 +1,11 @@
+{
+  "name": "shaggybb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js"
+  },
+  "repository": "git@github.com:shaggybb/shaggybb.git",
+  "author": "Ivan Rubio <ivan.rubio@xing.com>",
+  "license": "MIT"
+}
