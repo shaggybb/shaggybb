@@ -1,4 +1,4 @@
-<h2> Hi 👋 👋 👋 👋, I'm Ivan Rubio! </h2>
+<h2> Hi, I'm Ivan Rubio 👋 👨🏼‍💻</h2>
 <p>
   <em>Team Lead & Senior Software Enginner at <a href="http://www.xing.com">New work</a>
   <br />
