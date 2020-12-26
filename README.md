@@ -13,12 +13,12 @@
 
 ```javascript
 const shaggybb = {
-  pronouns: "he" | "min",
   code: [Javascript, Typescript, HTML, CSS, PHP],
   tools: [React, Node, Storybook, Styled-Components, Jest, Docker, Kubernetes, Symfony, Yii],
   architecture: ["microservices", "domain driven design", "components driven design"],
   challenge: "Focused on react and typescript and web performance",
-  learnings: "Svelte, React Native and ATDD"
+  learnings: "Svelte, React Native and ATDD",
+  hobbies: "Karate and Yoga"
 }
 ```
 
