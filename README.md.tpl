@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ivan Rubio 👋 👨🏼‍💻</h2>
 <p>
-  <em>Team Lead & Senior Software Enginner at <a href="http://www.xing.com">New work</a>
+  <em>Director of Enginner at <a href="http://www.xing.com">New work</a>
   <br />
   ex-CTO at <a href="https://www.suntransfers.com">Suntransfers.com</a>, <a href="https://www.delirium.es/es">Delirium Advertising</a> and Altasis 
   <br />
