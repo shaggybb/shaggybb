@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ivan Rubio 👋 👨🏼‍💻</h2>
 <p>
-  <em>Team Lead & Senior Software Enginner at <a href="http://www.xing.com">New work</a>
+  <em>Director of Enginner at <a href="http://www.xing.com">New work</a>
   <br />
   ex-CTO at <a href="https://www.suntransfers.com">Suntransfers.com</a>, <a href="https://www.delirium.es/es">Delirium Advertising</a> and Altasis 
   <br />
@@ -25,7 +25,7 @@ const shaggybb = {
 [![Shaggybb's github stats](https://github-readme-stats.vercel.app/api?username=shaggybb)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-<strong>Last update:</strong> Friday, September 9, 2022
+<strong>Last update:</strong> Saturday, September 10, 2022
 
 <!--
 **shaggybb/shaggybb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
